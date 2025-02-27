@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import "@/assets/styles/global.css";
 import "@/assets/styles/output.css";
+import 'swiper/css';
 
 const getPoppins = Poppins({
   variable: '--font-poppins',
