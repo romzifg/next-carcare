@@ -1,0 +1,32 @@
+[
+    {
+        "service_name": "Gold Wash",
+        "store": 173,
+        "image_url": "/assets/images/icons/illustration.svg"
+    },
+    {
+        "service_name": "Fix Paints",
+        "store": 173,
+        "image_url": "/assets/images/icons/illustration1.svg"
+    },
+    {
+        "service_name": "Interiors",
+        "store": 173,
+        "image_url": "/assets/images/icons/illustration2.svg"
+    },
+    {
+        "service_name": "Exteriors",
+        "store": 173,
+        "image_url": "/assets/images/icons/illustration3.svg"
+    },
+    {
+        "service_name": "3D Coating",
+        "store": 173,
+        "image_url": "/assets/images/icons/illustration4.svg"
+    },
+    {
+        "service_name": "Kaca Film",
+        "store": 173,
+        "image_url": "/assets/images/icons/illustration5.svg"
+    }
+]
